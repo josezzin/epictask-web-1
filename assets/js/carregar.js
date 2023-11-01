@@ -15,7 +15,7 @@ function criarCard(tarefa){
             <div class="card-content">
             <span class="card-title">${tarefa.titulo}</span>
             <p>${tarefa.descricao}</p>
-            <span data-badge-caption="pontos" class="badge blue white-text">
+            <span data-badge-caption="reais" class="badge blue white-text">
                 ${tarefa.pontos}
             </span>
             </div>
